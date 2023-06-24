@@ -48,8 +48,8 @@ This is the  HTMLcode to add two images on two diferent screen sizes.
 <picture>
       <source srcset="img/image-product-desktop.jpg" alt="image" media="(min-width:600px)">
        <img src="img/image-product-mobile.jpg" alt="image" width="600" height="900">
-   </picture>
-       
+</picture>
+```html
 
 ### Continued development
 
