@@ -28,7 +28,7 @@ https://github.com/ZOROexe/product-review/blob/42cbdb9156c52dcca8f25c33a23fce489
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/product-preview-card-with-html-and-css-wAR9T_BrLY
 - Live Site URL:https://zoroexe.github.io/product-review/
 
 ### Built with
